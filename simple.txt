@@ -1,2 +1,2 @@
 this is a simple text
-now this is to chnage the file[D[D[D[D[D[D[D[D[D[D[D[[Can[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D
+now this is to chnage the file[D[D[D[D[D[D[D[D[D[D[D[[Can[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[Dthis is third line in this file
