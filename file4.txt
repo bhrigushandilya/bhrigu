@@ -1,4 +1,0 @@
-This is Movies branch
-Hi there !!!
-Bye there !!!
-Merging ...
